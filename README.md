@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/ebd977c7-5208-45ad-a85f-206508b233ee) and start prompting.
+Simply visit the (https://smart-face-attendance-web.netlify.app/) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
